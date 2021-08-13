@@ -1,0 +1,20 @@
+{
+  "short_name": "SOA",
+  "name": "Service Based App",
+  "icons": [
+    {
+      "src": "logo48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff500",
+  "background_color": "#ffffff"
+}
